@@ -1,0 +1,104 @@
+================================================================================
+  HERBOCLEAN, SITE PRONTO PARA SUBIR
+  Gerado em 28 de setembro de 2026
+================================================================================
+
+O QUE E ISTO
+
+O site inteiro em arquivos prontos: HTML, CSS, JavaScript, imagens e fontes.
+Nao precisa de Node, de banco de dados nem de instalacao. E so colocar o
+conteudo desta pasta na raiz do servidor.
+
+  30 paginas do sitemap, mais 10 posts de blog
+  78 MB, quase tudo imagem e video
+
+
+--------------------------------------------------------------------------------
+  ANTES DE ESCOLHER: O DOMINIO JA ESTA DENTRO DOS ARQUIVOS
+--------------------------------------------------------------------------------
+
+As paginas declaram https://herboclean.com.br nos links canonicos, no sitemap,
+no robots.txt e na imagem de compartilhamento.
+
+Isso significa:
+
+  - Se voce subir em herboclean.com.br, esta tudo certo.
+  - Se voce subir num endereco de teste (algo.vercel.app, por exemplo), o site
+    ABRE e funciona, mas as etiquetas continuam apontando para o dominio final.
+    Para teste nao tem problema. Para producao em outro dominio, o site precisa
+    ser gerado de novo com o dominio novo.
+
+Para gerar de novo, na pasta do projeto:
+
+    NEXT_PUBLIC_SITE_URL=https://outro-dominio.com.br npm run build:estatico
+
+Uma protecao proposital: se o dominio for diferente do oficial, o site sai com
+noindex e o robots.txt bloqueia tudo. Isso evita que um endereco de teste
+apareca no Google competindo com o site de verdade.
+
+
+--------------------------------------------------------------------------------
+  OLHAR ANTES DE SUBIR, NO SEU COMPUTADOR
+--------------------------------------------------------------------------------
+
+Abra o Terminal, entre nesta pasta e rode:
+
+    python3 -m http.server 8080
+
+Depois abra http://localhost:8080 no navegador. E exatamente o que o servidor
+vai servir.
+
+
+--------------------------------------------------------------------------------
+  COMO SUBIR, POR HOSPEDAGEM
+--------------------------------------------------------------------------------
+
+VERCEL
+  Arraste esta pasta em vercel.com/new. Ela reconhece site estatico sozinha.
+
+  Alternativa melhor a longo prazo: conectar a pasta do projeto (o codigo) em
+  vez desta pasta. Assim cada alteracao publica sozinha, e o otimizador de
+  imagem do Next fica ligado, o que deixa as fotos mais leves. Esta pasta aqui
+  serve para decidir sem compromisso.
+
+NETLIFY / CLOUDFLARE PAGES
+  Arraste esta pasta na area de deploy. Nao precisa configurar nada.
+
+HOSTINGER, cPANEL, LOCAWEB E AFINS
+  Suba o CONTEUDO desta pasta (nao a pasta em si) para dentro de public_html.
+  O arquivo .htaccess ja vai junto e cuida das URLs limpas, do cache e da
+  pagina 404. Se o painel tiver "extrair arquivo zip", da para subir o zip e
+  extrair direto la, que e bem mais rapido do que FTP arquivo por arquivo.
+
+AMAZON S3, GOOGLE CLOUD STORAGE
+  Suba tudo e marque index.html como documento de indice e 404.html como
+  documento de erro.
+
+
+--------------------------------------------------------------------------------
+  O QUE O SERVIDOR PRECISA FAZER, EM QUALQUER CASO
+--------------------------------------------------------------------------------
+
+  HTTPS ligado. Sem isso o navegador marca o site como nao seguro.
+  Redirecionar www para o dominio sem www, ou o contrario. Escolha um so.
+
+Os dois sao configuracao da hospedagem, nao do site.
+
+
+--------------------------------------------------------------------------------
+  O QUE NAO ESTA AQUI
+--------------------------------------------------------------------------------
+
+  - O codigo-fonte. Ele fica na pasta do projeto, em eco-clean-site.
+  - Endereco e mapa. Entram quando voce decidir publicar o endereco.
+  - Formulario que envia para servidor. Nao existe: os botoes abrem o WhatsApp,
+    e por isso o site nao precisa de backend nenhum.
+
+
+--------------------------------------------------------------------------------
+  CONFERIDO ANTES DE EMPACOTAR
+--------------------------------------------------------------------------------
+
+  robots.txt e sitemap.xml gerados, com o dominio correto.
+  Nenhuma pagina mostra a marca antiga nem o contato antigo.
+  Fotos recomprimidas para o pacote: 123, de 52 MB para 26 MB.

@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/0t_uku__gh5oz.js","/_next/static/chunks/0d2brngd568eg.js"],""]
+3:I[73264,["/_next/static/chunks/0t_uku__gh5oz.js","/_next/static/chunks/0d2brngd568eg.js"],"Laboratorio"]
+4:I[97367,["/_next/static/chunks/0t_uku__gh5oz.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/0t_uku__gh5oz.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/0t_uku__gh5oz.js"],"MetadataBoundary"]
+:HL["/_next/static/chunks/1ikgcaipko95z.css","style"]
+8:X
+15:X
+15:C
+0:{"buildId":"4_2D-hrbIJSSxNHlOFEgB","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"laboratorio-module__jwEuSa__pagina","children":["$","div",null,{"className":"ec-env","children":[["$","div",null,{"className":"laboratorio-module__jwEuSa__intro","children":[["$","p",null,{"className":"ec-etiqueta","style":{"color":"var(--ec-lima-texto)"},"children":"Design system"}],["$","h1",null,{"className":"laboratorio-module__jwEuSa__titulo ec-display","style":{"color":"var(--ec-verde)"},"children":"Laboratório tipográfico"}],["$","p",null,{"className":"laboratorio-module__jwEuSa__texto","children":"Três combinações, cada uma montada nas peças que a home tem: cabeçalho, hero, escala de títulos, cards, accordion de superfícies e FAQ. A largura é simulada dentro da página, então dá para ver celular e desktop sem trocar de janela."}],["$","p",null,{"className":"laboratorio-module__jwEuSa__texto","children":["Todas as três são SIL Open Font License 1.1: uso comercial liberado, hospedagem própria liberada, e o texto da licença viaja junto com o arquivo em"," ",["$","code",null,{"children":"public/herboclean/fontes/"}],". Procedência, titular, data e hash de cada arquivo em ",["$","code",null,{"children":"LICENCAS.json"}],"."]}]]}],["$","div",null,{"className":"laboratorio-module__jwEuSa__aviso","children":["$","p",null,{"style":{"margin":0},"children":[["$","strong",null,{"children":["Em uso hoje: ","Plus Jakarta Sans","."]}]," É o padrão que o plano manda aplicar enquanto não houver decisão. Para trocar, mude ",["$","code",null,{"children":"FONTE_ATIVA"}]," em"," ",["$","code",null,{"children":"src/config/tipografia.ts"}],", ou defina"," ",["$","code",null,{"children":"NEXT_PUBLIC_EC_FONTE"}]," no ambiente para comparar sem editar código. A troca leva junto o ",["$","code",null,{"children":"preload"}],", então o site nunca pré-carrega a fonte de uma combinação e desenha com a de outra."]}]}],["$","p",null,{"className":"laboratorio-module__jwEuSa__texto","children":["$","$L2",null,{"href":"/design-system","style":{"color":"var(--ec-lima-texto)"},"children":"Voltar para o design system"}]}],["$","$L3",null,{}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1ikgcaipko95z.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0d2brngd568eg.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Laboratório tipográfico | Herboclean"}],["$","meta","1",{"name":"description","content":"Higienização e impermeabilização de sofás, colchões, tapetes, carpetes e cadeiras corporativas em São Paulo. Nota 5,0 no Google. Orçamento pelo WhatsApp."}],["$","meta","2",{"name":"application-name","content":"Herboclean"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"property":"og:title","content":"Herboclean | Higienização e impermeabilização de estofados em São Paulo"}],["$","meta","5",{"property":"og:description","content":"Higienização e impermeabilização de sofás, colchões, tapetes, carpetes e cadeiras corporativas em São Paulo. Nota 5,0 no Google. Orçamento pelo WhatsApp."}],["$","meta","6",{"property":"og:url","content":"https://herboclean.com.br"}],["$","meta","7",{"property":"og:site_name","content":"Herboclean"}],["$","meta","8",{"property":"og:locale","content":"pt_BR"}],["$","meta","9",{"property":"og:image","content":"https://herboclean.com.br/herboclean/brand/herboclean-og.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Herboclean, higienização e impermeabilização de estofados em São Paulo"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11"]}]}]}],null]}],"isPartial":"$@12","staleTime":"$8","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$8","varyParams":"$15"},{"rsc":"$L16","isPartial":"$@17","staleTime":"$8","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@18","rootVaryParams":null,"needsRuntimeRequest":"$@19"}
+1a:I[27201,["/_next/static/chunks/0t_uku__gh5oz.js"],"IconMark"]
+1b:I[39756,["/_next/static/chunks/0t_uku__gh5oz.js"],"default"]
+1c:I[37457,["/_next/static/chunks/0t_uku__gh5oz.js"],"default"]
+6:null
+b:["$","meta","15",{"name":"twitter:title","content":"Herboclean | Higienização e impermeabilização de estofados em São Paulo"}]
+c:["$","meta","16",{"name":"twitter:description","content":"Higienização e impermeabilização de sofás, colchões, tapetes, carpetes e cadeiras corporativas em São Paulo. Nota 5,0 no Google. Orçamento pelo WhatsApp."}]
+d:["$","meta","17",{"name":"twitter:image","content":"https://herboclean.com.br/herboclean/brand/herboclean-og.jpg"}]
+e:["$","link","18",{"rel":"icon","href":"/favicon.ico?favicon.1nd_0jy-y4359.ico","sizes":"256x256","type":"image/x-icon"}]
+f:["$","link","19",{"rel":"icon","href":"/icon.png?icon.0xrjmvseh11sc.png","sizes":"512x512","type":"image/png"}]
+10:["$","link","20",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0ugjectksfn2c.png","sizes":"180x180","type":"image/png"}]
+11:["$","$L1a","21",{}]
+13:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+16:["$","$1","c",{"children":[null,["$","$L1b",null,{"parallelRouterKey":"children","template":["$","$L1c",null,{}]}]]}]
+19:true
+8:300
+8:C
+18:0
+12:"$undefined"
+14:"$undefined"
+17:"$undefined"
+7:"$undefined"

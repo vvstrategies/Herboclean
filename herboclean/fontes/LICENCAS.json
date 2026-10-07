@@ -1,0 +1,177 @@
+{
+  "gerado_em": "2026-09-02",
+  "gerado_por": "scripts/eco-clean/baixar-fontes.mjs",
+  "o_que_e": "Procedencia e licenca de cada arquivo de fonte do projeto. Toda fonte aqui e SIL Open Font License 1.1: uso comercial e hospedagem propria liberados, com o texto da licenca ao lado do binario.",
+  "fontes": [
+    {
+      "familia": "Manrope",
+      "eixos": "wght 200..800",
+      "titular": "Mikhail Sharanda",
+      "licenca": "SIL Open Font License 1.1",
+      "licenca_arquivo": "/herboclean/fontes/ec-Manrope-variable-OFL.txt",
+      "licenca_origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "uso_permitido": "uso comercial, hospedagem propria, incorporacao em pagina web, modificacao. Exige manter o aviso de copyright e a propria licenca junto ao arquivo.",
+      "limitacoes": "Obra derivada nao pode usar o Reserved Font Name. Fonte nao pode ser vendida isoladamente.",
+      "obtida_em": "2026-09-02",
+      "obtida_de": "fonts.googleapis.com / github.com/google/fonts",
+      "arquivos": [
+        {
+          "arquivo": "/herboclean/fontes/ec-Manrope-variable-latin.woff2",
+          "subconjunto": "latin",
+          "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 24576,
+          "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f",
+          "origem": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2"
+        },
+        {
+          "arquivo": "/herboclean/fontes/ec-Manrope-variable-latin-ext.woff2",
+          "subconjunto": "latin-ext",
+          "unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 15240,
+          "sha256": "ce093b341d9c10658ee1eaa85c5f8042ff3307bc6ccfc5f405616eb437f0009e",
+          "origem": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggmxSvfedN62Zw.woff2"
+        }
+      ]
+    },
+    {
+      "familia": "Fraunces",
+      "eixos": "opsz 9..144, wght 100..900",
+      "titular": "Undercase Type",
+      "licenca": "SIL Open Font License 1.1",
+      "licenca_arquivo": "/herboclean/fontes/ec-Fraunces-variable-OFL.txt",
+      "licenca_origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/fraunces/OFL.txt",
+      "uso_permitido": "uso comercial, hospedagem propria, incorporacao em pagina web, modificacao. Exige manter o aviso de copyright e a propria licenca junto ao arquivo.",
+      "limitacoes": "Obra derivada nao pode usar o Reserved Font Name. Fonte nao pode ser vendida isoladamente.",
+      "obtida_em": "2026-09-02",
+      "obtida_de": "fonts.googleapis.com / github.com/google/fonts",
+      "arquivos": [
+        {
+          "arquivo": "/herboclean/fontes/ec-Fraunces-variable-latin.woff2",
+          "subconjunto": "latin",
+          "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+          "peso": "100 900",
+          "estilo": "normal",
+          "bytes": 67388,
+          "sha256": "48282a415ec22e31beaf0a0666e6fae0c8cbddcd0b1f6e729f27c3ade8a64e43",
+          "origem": "https://fonts.gstatic.com/s/fraunces/v38/6NU78FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0KxC9TeP2Xz5c.woff2"
+        },
+        {
+          "arquivo": "/herboclean/fontes/ec-Fraunces-variable-latin-ext.woff2",
+          "subconjunto": "latin-ext",
+          "unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+          "peso": "100 900",
+          "estilo": "normal",
+          "bytes": 59540,
+          "sha256": "f120089b9440f3e35a980a2137347b1851ad46ee4b8ad5c63b6c07e053fa40e2",
+          "origem": "https://fonts.gstatic.com/s/fraunces/v38/6NU78FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0KxCFTeP2Xz5fU8w.woff2"
+        }
+      ]
+    },
+    {
+      "familia": "Plus Jakarta Sans",
+      "eixos": "wght 200..800",
+      "titular": "Tokotype",
+      "licenca": "SIL Open Font License 1.1",
+      "licenca_arquivo": "/herboclean/fontes/ec-PlusJakartaSans-variable-OFL.txt",
+      "licenca_origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/plusjakartasans/OFL.txt",
+      "uso_permitido": "uso comercial, hospedagem propria, incorporacao em pagina web, modificacao. Exige manter o aviso de copyright e a propria licenca junto ao arquivo.",
+      "limitacoes": "Obra derivada nao pode usar o Reserved Font Name. Fonte nao pode ser vendida isoladamente.",
+      "obtida_em": "2026-09-02",
+      "obtida_de": "fonts.googleapis.com / github.com/google/fonts",
+      "arquivos": [
+        {
+          "arquivo": "/herboclean/fontes/ec-PlusJakartaSans-variable-latin.woff2",
+          "subconjunto": "latin",
+          "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 27272,
+          "sha256": "cd8db90cd950e26bc8761f65d323588bd5cd112d326d6d322bc7c8ea86771215",
+          "origem": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yygg_vb.woff2"
+        },
+        {
+          "arquivo": "/herboclean/fontes/ec-PlusJakartaSans-variable-latin-ext.woff2",
+          "subconjunto": "latin-ext",
+          "unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 21688,
+          "sha256": "0303e02b53b0298fb26a0193941a2e8754f0f9a9fce50d90b178d8da3424873f",
+          "origem": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yygg_vbd-E.woff2"
+        }
+      ]
+    },
+    {
+      "familia": "DM Sans",
+      "eixos": "opsz 9..40, wght 100..1000",
+      "titular": "Colophon Foundry, Jonny Pinhorn, Indian Type Foundry",
+      "licenca": "SIL Open Font License 1.1",
+      "licenca_arquivo": "/herboclean/fontes/ec-DMSans-variable-OFL.txt",
+      "licenca_origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/OFL.txt",
+      "uso_permitido": "uso comercial, hospedagem propria, incorporacao em pagina web, modificacao. Exige manter o aviso de copyright e a propria licenca junto ao arquivo.",
+      "limitacoes": "Obra derivada nao pode usar o Reserved Font Name. Fonte nao pode ser vendida isoladamente.",
+      "obtida_em": "2026-09-02",
+      "obtida_de": "fonts.googleapis.com / github.com/google/fonts",
+      "arquivos": [
+        {
+          "arquivo": "/herboclean/fontes/ec-DMSans-variable-latin.woff2",
+          "subconjunto": "latin",
+          "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+          "peso": "100 1000",
+          "estilo": "normal",
+          "bytes": 62556,
+          "sha256": "aa530716b0d351866af7dbfa3eee4120fb36f2d071baff8c234185141865c7ff",
+          "origem": "https://fonts.gstatic.com/s/dmsans/v17/rP2Hp2ywxg089UriCZOIHTWEBlw.woff2"
+        },
+        {
+          "arquivo": "/herboclean/fontes/ec-DMSans-variable-latin-ext.woff2",
+          "subconjunto": "latin-ext",
+          "unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+          "peso": "100 1000",
+          "estilo": "normal",
+          "bytes": 31312,
+          "sha256": "0d0609aee778d21b40bda1d27b7e6b5b3cb1a3e96b90b8831c681aca097c2219",
+          "origem": "https://fonts.gstatic.com/s/dmsans/v17/rP2Hp2ywxg089UriCZ2IHTWEBlwu8Q.woff2"
+        }
+      ]
+    },
+    {
+      "familia": "Newsreader",
+      "eixos": "opsz 6..72, wght 200..800",
+      "titular": "Production Type",
+      "licenca": "SIL Open Font License 1.1",
+      "licenca_arquivo": "/herboclean/fontes/ec-Newsreader-variable-OFL.txt",
+      "licenca_origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/newsreader/OFL.txt",
+      "uso_permitido": "uso comercial, hospedagem propria, incorporacao em pagina web, modificacao. Exige manter o aviso de copyright e a propria licenca junto ao arquivo.",
+      "limitacoes": "Obra derivada nao pode usar o Reserved Font Name. Fonte nao pode ser vendida isoladamente.",
+      "obtida_em": "2026-09-02",
+      "obtida_de": "fonts.googleapis.com / github.com/google/fonts",
+      "arquivos": [
+        {
+          "arquivo": "/herboclean/fontes/ec-Newsreader-variable-latin.woff2",
+          "subconjunto": "latin",
+          "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 131848,
+          "sha256": "01817351be3edfc1714fe6d60ddea6a22a169a5ebd033b50c7f9495e5d9c386a",
+          "origem": "https://fonts.gstatic.com/s/newsreader/v26/cY9AfjOCX1hbuyalUrK4397yjIJFJpc.woff2"
+        },
+        {
+          "arquivo": "/herboclean/fontes/ec-Newsreader-variable-latin-ext.woff2",
+          "subconjunto": "latin-ext",
+          "unicodeRange": "U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF",
+          "peso": "200 800",
+          "estilo": "normal",
+          "bytes": 86628,
+          "sha256": "cbca001188852d514d8654be7ddc97868f039bdf986b926ec5c985c117853cfd",
+          "origem": "https://fonts.gstatic.com/s/newsreader/v26/cY9AfjOCX1hbuyalUrK439DyjIJFJpeBZQ.woff2"
+        }
+      ]
+    }
+  ]
+}

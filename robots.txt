@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /design-system
+Disallow: /design-system/tipografia
+Disallow: /api/
+
+Host: https://herboclean.com.br/
+Sitemap: https://herboclean.com.br/sitemap.xml
