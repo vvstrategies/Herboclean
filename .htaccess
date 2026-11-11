@@ -21,6 +21,12 @@ Options -MultiViews
 
 ErrorDocument 404 /404.html
 
+# Garante que o arquivo para modelos de linguagem preserve os acentos.
+<Files "llms.txt">
+  ForceType text/plain
+  AddDefaultCharset UTF-8
+</Files>
+
 # Cache: o conteudo de /_next/ tem o hash no nome e nunca muda.
 <IfModule mod_expires.c>
   ExpiresActive On
