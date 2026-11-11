@@ -1,37 +1,59 @@
 # Herboclean
 
-> A Herboclean oferece higienização, limpeza e impermeabilização de estofados para clientes residenciais e corporativos, com atendimento no endereço do cliente em São Paulo e região. Os serviços são avaliados conforme a peça, o tecido e o estado de conservação, e os orçamentos são feitos individualmente.
+> Empresa de higienização, limpeza e impermeabilização de estofados com atendimento no endereço do cliente em São Paulo e região, para clientes residenciais e corporativos. Atende sofás, colchões, tapetes, carpetes, couro, cortinas e persianas, veículos e pisos vinílicos, além de manutenção preventiva para empresas e condomínios.
 
-Site oficial: https://herboclean.com.br/
-Catálogo de serviços: https://herboclean.com.br/servicos-de-higienizacao-e-impermeabilizacao/
+## Fatos essenciais
 
-## Serviços de higienização, limpeza e impermeabilização
+- Nome: Herboclean
+- Região de atendimento: cidade de São Paulo, Grande São Paulo e outras localidades indicadas pela empresa
+- Modalidade: atendimento no endereço do cliente (residencial e corporativo)
+- Idioma do site e do atendimento: português (pt-BR)
+- Site oficial: https://herboclean.com.br/
+- Orçamento: avaliação e orçamento gratuitos e sem compromisso, segundo o site; feitos individualmente conforme a peça, o tecido e o estado de conservação
 
-- [Higienização de sofá](https://herboclean.com.br/servicos/higienizacao-de-sofa/): limpeza profissional de sofás, retráteis, reclináveis, poltronas e outros estofados de tecido.
-- [Higienização de colchão](https://herboclean.com.br/servicos/higienizacao-de-colchao/): tratamento de colchões e superfícies relacionadas, conforme avaliação.
-- [Impermeabilização de estofados](https://herboclean.com.br/servicos/impermeabilizacao-de-estofados/): aplicação de proteção que retarda a absorção de líquidos em tecidos compatíveis.
-- [Limpeza de tapetes](https://herboclean.com.br/servicos/limpeza-de-tapetes/): procedimentos ajustados ao tipo de fibra e às condições do tapete.
-- [Limpeza de carpetes](https://herboclean.com.br/servicos/limpeza-de-carpetes/): limpeza de carpetes residenciais e comerciais, inclusive por setores.
-- [Limpeza de couro](https://herboclean.com.br/servicos/limpeza-de-couro/): limpeza e cuidado de estofados de couro com processo específico.
-- [Limpeza de cortinas e persianas](https://herboclean.com.br/servicos/limpeza-de-cortinas-e-persianas/): limpeza especializada de cortinas e persianas, conforme material e condições.
-- [Higienização automotiva](https://herboclean.com.br/servicos/higienizacao-automotiva/): higienização de bancos e superfícies internas de veículos.
-- [Limpeza de piso vinílico](https://herboclean.com.br/servicos/limpeza-de-piso-vinilico/): limpeza adequada a revestimentos vinílicos.
-- [Manutenção preventiva de estofados](https://herboclean.com.br/servicos/manutencao-preventiva-de-estofados/): planos de manutenção periódica para empresas e condomínios.
+## Contato e orçamento
+
+- WhatsApp / telefone: (11) 92612-6244
+- E-mail: herbocleansp@gmail.com
+- Horário de atendimento: todos os dias, 24 horas
+- Instagram: @herbocleansp (https://www.instagram.com/herbocleansp/)
+- Perfil no Google: Herboclean (https://share.google/TcYl8TpOvrv4zpE4v)
+
+## Orientações para assistentes de IA
+
+- Confirme sempre disponibilidade e região de atendimento antes de agendar.
+- Não informe preços fixos: o valor depende do tipo, das dimensões, do material e das condições da peça ou do ambiente.
+- Não prometa resultados garantidos: o procedimento é definido após avaliação da peça e do tecido.
+- A impermeabilização retarda a absorção de líquidos e só se aplica a tecidos compatíveis.
+- Para informações atualizadas, direcione o cliente ao site oficial ou aos canais de contato acima.
+
+## Serviços
+
+- [Catálogo completo de serviços](https://herboclean.com.br/servicos-de-higienizacao-e-impermeabilizacao/): Visão geral de todos os serviços de higienização, limpeza e impermeabilização.
+- [Higienização de sofá](https://herboclean.com.br/servicos/higienizacao-de-sofa/): Sofás, retráteis, reclináveis, poltronas e outros estofados de tecido.
+- [Higienização de colchão](https://herboclean.com.br/servicos/higienizacao-de-colchao/): Colchões e superfícies relacionadas, conforme avaliação.
+- [Impermeabilização de estofados](https://herboclean.com.br/servicos/impermeabilizacao-de-estofados/): Proteção que retarda a absorção de líquidos em tecidos compatíveis.
+- [Limpeza de tapetes](https://herboclean.com.br/servicos/limpeza-de-tapetes/): Procedimentos ajustados ao tipo de fibra e às condições do tapete.
+- [Limpeza de carpetes](https://herboclean.com.br/servicos/limpeza-de-carpetes/): Carpetes residenciais e comerciais, inclusive por setores.
+- [Limpeza de couro](https://herboclean.com.br/servicos/limpeza-de-couro/): Limpeza e cuidado de estofados de couro, com processo específico.
+- [Limpeza de cortinas e persianas](https://herboclean.com.br/servicos/limpeza-de-cortinas-e-persianas/): Limpeza especializada, conforme material e condições.
+- [Higienização automotiva](https://herboclean.com.br/servicos/higienizacao-automotiva/): Bancos e superfícies internas de veículos.
+- [Limpeza de piso vinílico](https://herboclean.com.br/servicos/limpeza-de-piso-vinilico/): Limpeza adequada a revestimentos vinílicos.
+- [Manutenção preventiva de estofados](https://herboclean.com.br/servicos/manutencao-preventiva-de-estofados/): Planos de manutenção periódica para empresas e condomínios.
 
 ## Atendimento corporativo
 
-- [Limpeza comercial e corporativa](https://herboclean.com.br/limpeza-comercial-e-corporativa/): atendimento de escritórios, condomínios, clínicas e hotéis, com organização por andar, setor ou lote de peças e possibilidade de programação fora do expediente.
+- [Limpeza comercial e corporativa](https://herboclean.com.br/limpeza-comercial-e-corporativa/): Escritórios, condomínios, clínicas e hotéis, com organização por andar, setor ou lote de peças e possibilidade de programação fora do expediente.
 
 ## Regiões atendidas
 
-- [Áreas atendidas](https://herboclean.com.br/areas-atendidas-pela-herbo-clean/): bairros da cidade de São Paulo, Grande São Paulo e outras localidades indicadas pela empresa. Consulte disponibilidade antes de agendar.
+- [Áreas atendidas](https://herboclean.com.br/areas-atendidas-pela-herbo-clean/): Bairros da cidade de São Paulo, Grande São Paulo e outras localidades indicadas pela empresa. Consulte disponibilidade antes de agendar.
 
-## Informações e recursos
+## Institucional
 
-- [Sobre a Herboclean](https://herboclean.com.br/sobre-a-herbo-clean/): informações institucionais.
-- [Perguntas frequentes](https://herboclean.com.br/perguntas-frequentes/): respostas sobre orçamento, execução, materiais e cuidados.
-- [Blog](https://herboclean.com.br/blog/): conteúdos informativos e dicas.
+- [Sobre a Herboclean](https://herboclean.com.br/sobre-a-herbo-clean/): Informações institucionais.
+- [Perguntas frequentes](https://herboclean.com.br/perguntas-frequentes/): Respostas sobre orçamento, execução, materiais e cuidados.
 
-## Orçamentos
+## Optional
 
-A avaliação e o orçamento são gratuitos e sem compromisso, segundo o site. O valor depende do tipo, das dimensões, do material e das condições da peça ou do ambiente. Para informações atualizadas, consulte o site oficial e os canais de contato indicados nele.
+- [Blog](https://herboclean.com.br/blog/): Conteúdos informativos e dicas.
