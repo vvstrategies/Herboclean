@@ -25,6 +25,9 @@ ErrorDocument 404 /404.html
 <Files "llms.txt">
   ForceType text/plain
   AddDefaultCharset UTF-8
+  <IfModule mod_headers.c>
+    Header set Content-Type "text/plain; charset=UTF-8"
+  </IfModule>
 </Files>
 
 # Cache: o conteudo de /_next/ tem o hash no nome e nunca muda.
